@@ -2,9 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 布萊德工作室</title>
-    <link>https://nunocoracao.github.io/tags/</link>
+    <link>https://savetimetips.github.io/tags/</link>
     <description>Recent content in Tags on 布萊德工作室</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://nunocoracao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language><atom:link href="https://savetimetips.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced</title>
+      <link>https://savetimetips.github.io/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://savetimetips.github.io/tags/advanced/</guid>
+      <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://savetimetips.github.io/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://savetimetips.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://savetimetips.github.io/tags/chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://savetimetips.github.io/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LearningEnglish</title>
+      <link>https://savetimetips.github.io/tags/learningenglish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://savetimetips.github.io/tags/learningenglish/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

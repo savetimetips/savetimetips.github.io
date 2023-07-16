@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 布萊德工作室</title>
-    <link>https://nunocoracao.github.io/categories/</link>
+    <link>https://savetimetips.github.io/categories/</link>
     <description>Recent content in Categories on 布萊德工作室</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://nunocoracao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language><atom:link href="https://savetimetips.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
